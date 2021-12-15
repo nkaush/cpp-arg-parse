@@ -1,3 +1,8 @@
+.vscode/
+
+# Executable
+release
+
 # Prerequisites
 *.d
 
